@@ -116,7 +116,7 @@ Deploy Quizbot to Heroku without managing a server. Both bots run as separate dy
 
 ### Step 1 — Fork the Repository
 
-1. Go to [github.com/devgaganin/Quizbot](https://github.com/devgaganin/Quizbot)
+1. Go to [github.com/devgaganin/Quizbot](https://github.com/kirtibots/Quizbot)
 2. Click the **Fork** button (top-right corner)
 3. Select your GitHub account as the destination
 4. Your fork will be at `https://github.com/<your-username>/Quizbot`
